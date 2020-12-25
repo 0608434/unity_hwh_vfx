@@ -117,7 +117,7 @@ MonoBehaviour:
   m_MinSize: {x: 811, y: 492}
   m_MaxSize: {x: 22006, y: 14042}
   vertical: 0
-  controlID: 60
+  controlID: 36
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -290,7 +290,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
-    m_Text: "\u7159\u706B\u7279\u6548*"
+    m_Text: "\u7159\u706B\u7279\u6548"
     m_Image: {fileID: 0}
     m_Tooltip: 
   m_Pos:
@@ -430,9 +430,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0, y: 1, z: 0}
+    m_Target: {x: 0.97585964, y: 15.771025, z: -0.62330246}
     speed: 2
-    m_Value: {x: 0, y: 1, z: 0}
+    m_Value: {x: 0.97585964, y: 15.771025, z: -0.62330246}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -460,9 +460,9 @@ MonoBehaviour:
       m_Size: {x: 0, y: 0}
     yGrid:
       m_Fade:
-        m_Target: 0
+        m_Target: 1
         speed: 2
-        m_Value: 0
+        m_Value: 1
       m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
       m_Pivot: {x: 0, y: 0, z: 0}
       m_Size: {x: 1, y: 1}
@@ -474,17 +474,17 @@ MonoBehaviour:
       m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
       m_Pivot: {x: 0, y: 0, z: 0}
       m_Size: {x: 1, y: 1}
-    m_ShowGrid: 0
+    m_ShowGrid: 1
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.02208487, y: 0.9251228, z: -0.0544688, w: -0.3750947}
+    m_Target: {x: 0.020773849, y: 0.14584379, z: -0.0030631719, w: 0.9890851}
     speed: 2
-    m_Value: {x: -0.022084838, y: 0.9251215, z: -0.054468717, w: -0.37509418}
+    m_Value: {x: 0.020773841, y: 0.14584374, z: -0.003063171, w: 0.98908484}
   m_Size:
-    m_Target: 5.6615534
+    m_Target: 24.163504
     speed: 2
-    m_Value: 5.361553
+    m_Value: 23.12297
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -502,7 +502,7 @@ MonoBehaviour:
     m_FarClip: 10000
     m_DynamicClip: 1
     m_OcclusionCulling: 0
-  m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+  m_LastSceneViewRotation: {x: 0.020773849, y: 0.14584379, z: -0.0030631719, w: 0.9890851}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
@@ -602,9 +602,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: aabeffff
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 58fbffff
+      m_ExpandedIDs: 6afbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -667,20 +667,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/vfx
+    - "Assets/\u9810\u7F6E\u7269"
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/vfx
+  - "Assets/\u9810\u7F6E\u7269"
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\User\Desktop\unity_hwh_vfx\vfx_0608434
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 58410000
-    m_LastClickedID: 16728
-    m_ExpandedIDs: 00000000d23f000000ca9a3b
+    m_SelectedIDs: f8450000
+    m_LastClickedID: 17912
+    m_ExpandedIDs: 00000000ac3e000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -696,7 +696,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 10}
+      m_ClientGUIView: {fileID: 6}
     m_SearchString: 
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
@@ -708,7 +708,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000d23f0000
+    m_ExpandedIDs: 00000000ac3e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -739,18 +739,18 @@ MonoBehaviour:
     m_ExpandedInstanceIDs: c62300003637000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: "\u6B32\u7F6E\u7269"
+      m_OriginalName: "\u6B32\u7F6E\u7269"
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 17912
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 10}
     m_CreateAssetUtility:
