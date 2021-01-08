@@ -27,16 +27,7 @@ MonoBehaviour:
     - model: {fileID: 8926484042661614628}
       id: 0
       isStickyNote: 0
-    - model: {fileID: 8926484042661614661}
-      id: 0
-      isStickyNote: 0
     - model: {fileID: 8926484042661614630}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614643}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614644}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661614681}
@@ -46,18 +37,6 @@ MonoBehaviour:
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661614617}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614633}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614636}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614656}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614639}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661614677}
@@ -74,37 +53,13 @@ MonoBehaviour:
     - model: {fileID: 8926484042661614555}
       id: 0
       isStickyNote: 0
-    - model: {fileID: 8926484042661614556}
-      id: 0
-      isStickyNote: 0
     - model: {fileID: 8926484042661614558}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614569}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614580}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614595}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614667}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661614583}
       id: 0
       isStickyNote: 0
-    - model: {fileID: 8926484042661614612}
-      id: 0
-      isStickyNote: 0
     - model: {fileID: 8926484042661614585}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614589}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614593}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661614598}
@@ -144,10 +99,10 @@ MonoBehaviour:
   categories: []
   uiBounds:
     serializedVersion: 2
-    x: 639
+    x: -0
     y: -314
-    width: 1527
-    height: 2628
+    width: 2141
+    height: 2581
 --- !u!114 &114350483966674976
 MonoBehaviour:
   m_ObjectHideFlags: 1
